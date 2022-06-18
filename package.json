@@ -1,0 +1,24 @@
+{
+  "name": "final-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "Shubhangi Mhetre",
+  "license": "ISC",
+  "dependencies": {
+    "@hapi/joi": "^17.1.1",
+    "bcryptjs": "^2.4.3",
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^6.3.8",
+    "node": "^17.7.2",
+    "nodemailer": "^6.7.5",
+    "nodemon": "^2.0.16",
+    "otp-generators": "^1.0.3",
+    "web3": "^1.7.3"
+  }
+}

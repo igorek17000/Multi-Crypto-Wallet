@@ -1,0 +1,27 @@
+Create a multi crypto currency wallet. In which we have two coin support. Ethereum (ETH) and Binanace smart chain (BSC). Apis which are required for the project-related
+
+1) Register
+2) Login
+3) otp validation
+4) Activate accounts (Address/account creation for BSC and ETH)
+5) Balance api for both coins (B)
+6) Transfer API  (for ETH and BSC ) (B)
+7) Address show API (B)
+8) History API (B)
+9) User profile API (B)
+10) bearer token implementation for JWT
+11) Dashboard API (B) it will give address, currency Code (ETH, BSC) and balance
+
+Project will be created on testnet only
+
+Dashboard Response :
+response [{
+currency: ETH,
+Address:93045nsdkjfns8945jksndfo8u4,
+Balance: 0.1
+},{
+currency: BSC,
+Address:sljdfljsdf4569845,dfgnsdf098e5,
+Balance: 0.6
+}]
+
